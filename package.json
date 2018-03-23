@@ -1,0 +1,25 @@
+{
+  "name": "whereisthemoney",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "etherscan": "0.2.2",
+    "etherscan-api": "8.0.4",
+    "restify": "^7.0.0",
+    "underscore": "^1.8.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qqqzhch/Whereisthemoney.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qqqzhch/Whereisthemoney/issues"
+  },
+  "homepage": "https://github.com/qqqzhch/Whereisthemoney#readme"
+}
